@@ -1,3 +1,4 @@
+fahrenheit = ( celsius * 1.8 ) + 32
 temp = float(input("Enter the temperature: "))
 
 if temp < 15:
