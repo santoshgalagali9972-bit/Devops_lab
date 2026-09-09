@@ -7,3 +7,4 @@ elif 15 <= temp <= 30:
     print("Temprature is Normal")
 else: 
     print("Temperature is Hot")
+print("the temperature is fahrenhit: ",fahrenheit)
