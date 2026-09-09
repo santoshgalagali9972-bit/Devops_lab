@@ -1,3 +1,4 @@
+celsius =float(input("Enter a celsius: "))
 fahrenheit = ( celsius * 1.8 ) + 32
 temp = float(input("Enter the temperature: "))
 
